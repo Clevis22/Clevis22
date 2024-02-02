@@ -7,7 +7,7 @@ Hey, I'm Clevis22 :wave:, an outdoor enthusiast and hobbyist programmer.
 * Cybersecurity
 * Web Development
 * Privacy
-* Markdown :showdown:
+* Markdown
 * Hiking
 * Fishing
 * Boating
